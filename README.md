@@ -49,7 +49,7 @@
 
 | No | Tanggal        | Pertemuan ke | Topik                          |    Laporan   |    Repo   |
 |----|----------------|--------------|--------------------------------|--------------|-----------|
-| 1  |   03-09-2025   |       1      | Pengenalan Mobile Programming  | [Laporan](#) | [Repo](#) |
+| 1  |   25-08-2025   |       1      | Pengenalan Mobile Programming dan Setup Lingkungan  | [Laporan](#) | [Repo](#) |
 | 2  |   10-09-2025   |       2      | Setup Lingkungan & Tools       | [Laporan](#) | [Repo](#) |
 | 3  |   17-09-2025   |       3      | Membuat Project Sederhana      | [Laporan](#) | [Repo](#) |
 | 4  |   24-09-2025   |       4      | Implementasi Fitur CRUD        | [Laporan](#) | [Repo](#) |
