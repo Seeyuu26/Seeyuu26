@@ -40,13 +40,16 @@
 
 ## 📫 How to reach me  
 - 📧 Email: ansyahrusdi649@gmail.com 
-- 💼 LinkedIn: [https://www.linkedin.com/in/rusdiannsyah26](https://linkedin.com/in/username) 
+- 💼 LinkedIn: [https://www.linkedin.com/in/rusdiannsyah26](https://linkedin.com/in/username)
+
+---
+
 
 ## 📌 Daftar Pertemuan
 
-| No | Tgl        | Pertemuan ke | Topik                          | Laporan | Repo |
-|----|------------|--------------|--------------------------------|---------|------|
-| 1  | 03-09-2025 | 1            | Pengenalan Mobile Programming  | [Laporan](#) | [Repo](#) |
-| 2  | 10-09-2025 | 2            | Setup Lingkungan & Tools       | [Laporan](#) | [Repo](#) |
-| 3  | 17-09-2025 | 3            | Membuat Project Sederhana      | [Laporan](#) | [Repo](#) |
-| 4  | 24-09-2025 | 4            | Implementasi Fitur CRUD        | [Laporan](#) | [Repo](#) |
+| No | Tanggal        | Pertemuan ke | Topik                          |    Laporan   |    Repo   |
+|----|----------------|--------------|--------------------------------|--------------|-----------|
+| 1  |   03-09-2025   |       1      | Pengenalan Mobile Programming  | [Laporan](#) | [Repo](#) |
+| 2  |   10-09-2025   |       2      | Setup Lingkungan & Tools       | [Laporan](#) | [Repo](#) |
+| 3  |   17-09-2025   |       3      | Membuat Project Sederhana      | [Laporan](#) | [Repo](#) |
+| 4  |   24-09-2025   |       4      | Implementasi Fitur CRUD        | [Laporan](#) | [Repo](#) |
