@@ -49,7 +49,7 @@
 
 | No | Tanggal        | Pertemuan ke | Topik                          |    Laporan   |    Repo   |
 |----|----------------|--------------|--------------------------------|--------------|-----------|
-| 1  |   25-08-2025   |       1      | Pengenalan Mobile Programming dan Setup Lingkungan  | [Laporan](https://drive.google.com/file/d/1_sMnuWQHQu_pITW6kO4YIZT4erRH1Z9u/view?usp=sharing) | [Repo](#) |
+| 1  |   01-09-2025   |       1      | Pengenalan Mobile Programming dan Setup Lingkungan  | [Laporan](https://drive.google.com/file/d/1_sMnuWQHQu_pITW6kO4YIZT4erRH1Z9u/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/MobileProgramming.git) |
 | 2  |   10-09-2025   |       2      | Setup Lingkungan & Tools       | [Laporan](#) | [Repo](#) |
 | 3  |   17-09-2025   |       3      | Membuat Project Sederhana      | [Laporan](#) | [Repo](#) |
 | 4  |   24-09-2025   |       4      | Implementasi Fitur CRUD        | [Laporan](#) | [Repo](#) |
