@@ -49,8 +49,8 @@
 
 | No | Tanggal        | Pertemuan ke | Topik                          |    Laporan   |    Repo   |
 |----|----------------|--------------|--------------------------------|--------------|-----------|
-| 1  |   03-09-2025   |       1      | Pengenalan Mobile Programming dan Setup Lingkungan  | [Laporan](https://drive.google.com/file/d/1_sMnuWQHQu_pITW6kO4YIZT4erRH1Z9u/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/MobileProgramming.git) |
-| 2  |   03-09-2025   |       1      | Widget Row dan Column      | [Laporan](https://drive.google.com/file/d/1l5AcKQvIPZ32tMGFxiVPZcDZFhXtj7db/view?usp=sharing) | [Repo](#) |
+| 1  |   03-09-2025   |       1      | Pengenalan Mobile Programming dan Setup Lingkungan  | [Laporan](https://drive.google.com/drive/folders/1Y4X8RlVkPwq2hlsIDs3V4DVNaMTvkf2R?usp=drive_link) | [Repo](https://github.com/Seeyuu26/MobileProgramming.git) |
+| 2  |   03-09-2025   |       1      | Widget Row dan Column      | [Laporan](https://drive.google.com/drive/folders/1zf8sYK52SsvJccwvrWB44X7NsVp1unvX?usp=drive_link) | [Repo](#) |
 | 3  |   10-09-2025   |       2      | Pengaturan Layout Row dan Column di Flutter     | [Laporan](https://drive.google.com/drive/folders/1Vl2JpFoSzMdjbhrtaCiJ5LmYC3iLmD0y?usp=drive_link) | [Repo](#) |
 | 4  |   10-09-2025   |       2      | Widget Flexible dan Expanded        | [Laporan](https://drive.google.com/drive/folders/1tKR-dMNdeGB4xtnBTYFGfJATqcYeUfSY?usp=drive_link) | [Repo](#) |
 | 5  |   17-09-2025   |       3      | Widget SizedBox, Spacer, dan Card   | [Laporan](https://drive.google.com/drive/folders/1ZPi-xSOmUA5tt2IbHfdstm-nbv7maEJD?usp=drive_link) | [Repo](#) |
