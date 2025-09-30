@@ -57,3 +57,4 @@
 | 6  | 17-09-2025 |       3      | Widget GridView, ListView, GridView.builder, dan ListView.builder   | [Laporan](https://drive.google.com/drive/folders/1yM889U4wRfqGIQblvhX1RVheBRW0C9Vs?usp=drive_link) | [Repo](https://github.com/Seeyuu26/Modul-06) |
 | 7 | 24-09-2025 |       4      | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Laporan](https://drive.google.com/file/d/1lvTmA_cVQxNJLwnPQvICmueOoZvX9GpB/view?usp=drive_link) | [Repo](https://github.com/Seeyuu26/Modul-07) |
 | 8 | 24-09-2025 |       4      | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Laporan](https://drive.google.com/file/d/17TvD-qIXAsDCN774y8H1Jm35h4Lh5vle/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/Modul-08) |
+| 9 | 29-09-2025 |       5      | StatefulWidget | [Laporan]() | [Repo](https://github.com/Seeyuu26/Modul-09) |
