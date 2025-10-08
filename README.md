@@ -58,3 +58,4 @@
 | 7 | 24-09-2025 |       4      | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Laporan](https://drive.google.com/file/d/1lvTmA_cVQxNJLwnPQvICmueOoZvX9GpB/view?usp=drive_link) | [Repo](https://github.com/Seeyuu26/Modul-07) |
 | 8 | 24-09-2025 |       4      | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Laporan](https://drive.google.com/file/d/17TvD-qIXAsDCN774y8H1Jm35h4Lh5vle/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/Modul-08) |
 | 9 | 29-09-2025 |       5      | StatefulWidget | [Laporan](https://drive.google.com/file/d/11Pt4dc-GWAOUhNGDE9x7T-zpmw40qHos/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/Modul-09) |
+| 10 | 10-08-2025 |      6      | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan](https://drive.google.com/file/d/1TjZVDwDWeUPqBhxxWLccE-Q19qwi-ytK/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/Modul-10) |
