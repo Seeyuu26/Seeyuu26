@@ -101,4 +101,4 @@ Aplikasi ini terdiri dari beberapa halaman utama sesuai ketentuan:
 | 9 | 29-09-2025 |       5      | StatefulWidget | [Laporan](https://drive.google.com/file/d/11Pt4dc-GWAOUhNGDE9x7T-zpmw40qHos/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/Modul-09) |
 | 10 | 10-10-2025 |      6      | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan](https://drive.google.com/file/d/1TjZVDwDWeUPqBhxxWLccE-Q19qwi-ytK/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/Modul-10) |
 | 11 | 15-10-2025 |      7      | Manajemen State dengan GetX | [Laporan](https://drive.google.com/file/d/1f-jngAcC0Vy4iJefM2MI7hEs30dDwdh3/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/Modul-11) |
-| 12 | 28-10-2025 |      8      | **UTS - Aplikasi Mobile "KumanYuk"** | [Laporan](LINK_KE_LAPORAN_PDF_ANDA) | [Repo](LINK_KE_REPO_KUMANYUK_ANDA) |
+| 12 | 28-10-2025 |      8      | **UTS - Aplikasi Mobile "KumanYuk"** | [Laporan](https://drive.google.com/file/d/19dR9UR7b3gFFRzGX3Bh9X5qF-7wowbHy/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/UTS-Aplikasi-Mobile-KumanYuk) |
