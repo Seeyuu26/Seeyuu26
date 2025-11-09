@@ -102,4 +102,4 @@ Aplikasi ini terdiri dari beberapa halaman utama sesuai ketentuan:
 | 10 | 10-10-2025 |      6      | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan](https://drive.google.com/file/d/1TjZVDwDWeUPqBhxxWLccE-Q19qwi-ytK/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/Modul-10) |
 | 11 | 15-10-2025 |      7      | Manajemen State dengan GetX | [Laporan](https://drive.google.com/file/d/1f-jngAcC0Vy4iJefM2MI7hEs30dDwdh3/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/Modul-11) |
 | 12 | 28-10-2025 |      8      | **UTS - Aplikasi Mobile "KumanYuk"** | [Laporan](https://drive.google.com/file/d/19dR9UR7b3gFFRzGX3Bh9X5qF-7wowbHy/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/UTS-Aplikasi-Mobile-KumanYuk) |
-| 13 | 05-11-2025 |      9      | Akses Lokasi dengan GPS di Flutter   | [Laporan](https://drive.google.com/file/d/1UVdPhNO25D-y4q_e0LIO-kvlMMJqOLKB/view?usp=sharing) | [Repo]()   |
+| 13 | 05-11-2025 |      9      | Akses Lokasi dengan GPS di Flutter   | [Laporan](https://drive.google.com/file/d/1UVdPhNO25D-y4q_e0LIO-kvlMMJqOLKB/view?usp=sharing) | [Repo](https://github.com/Seeyuu26/Modul-12)   |
